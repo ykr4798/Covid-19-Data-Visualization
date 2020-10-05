@@ -1,8 +1,8 @@
-
+# COVID-19 Data & Visualization
 
 ### Data collection, processing and visualization of COVID-19.
 
-This project started as a simple [MongoDB Charts dashboard][public-dashboard] (full disclosure, I work on MongoDB Charts) to track and visualise the [data][github-covid19-jhu] made available by Johns Hopkins University. 
+This project started as a simple [Power BI dashboard][public-dashboard] (full disclosure, I work on Power BI) to track and visualise the [data][https://www.worldometers.info/coronavirus/] made available by Worldometer. 
 
 Given the rapid escalation of the situation, I want to dedicate some time and extend this to collect additional datasets from different sources and make them available for visualization. 
 
