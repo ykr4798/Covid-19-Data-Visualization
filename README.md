@@ -12,6 +12,10 @@ The data is currently imported once daily with a use of link of website named Wo
 
 I'd like to add additional relevant datasets to get a comprehensive view of the situation unfolding. This can include additional information about the infections themselves (age, gender, other circumstances) as well as other secondary information that might be helpful and interesting in this context. I've already added a collection with population, area and density information at a country level. This allows for visualizations showing relative infection rates based on population. 
 
+## Solved by using Power BI
+
+<img align="centre" alt="codeSTACKr | Power BI" width="99px" src="https://www.kindpng.com/picc/m/2-21404_microsoft-power-bi-logo-vector-hd-png-download.png" />       
+
 
 [public-dashboard]: https://drive.google.com/file/d/1RufI7uoPzaqjBH7YQ99OW5chbZkvVpUP/view?usp=sharing
 [Worldometer]: https://www.worldometers.info/coronavirus/
