@@ -1,3 +1,5 @@
+![Power BI](https://img.shields.io/badge/Tool-PowerBI-yellowgreen) ![Status](https://img.shields.io/badge/Status-Completed-success) ![DA](https://img.shields.io/badge/Data-Analytics-ff69b4)
+
 # COVID-19 Data & Visualization
 
 ![Logos](https://www.leaders-in-law.com/wp-content/uploads/2020/03/COVID-19.png)
